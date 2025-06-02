@@ -1,7 +1,5 @@
 # Sentiment-Analysis-using-NLP
-## Absolutely! Here’s a **README.md** file content you can use for your GitHub repository when you upload the sentiment analysis notebook:
 
----
 
 ## 📊 Sentiment Analysis using NLP
 
